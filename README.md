@@ -1,4 +1,8 @@
-# Discretization Drift in Two-Player Games
+# Discretization Drift related code
+
+Code for "On a continuous time model of gradient descent dynamics and instability in deep learning" coming soon.
+
+## Discretization Drift in Two-Player Games
 
 This is the code reproducing the ICML 2021 paper
 ["Discretization Drift in Two-Player Games"]
