@@ -168,13 +168,6 @@ class GAN:
     else:
       disc_params_transform_state = ()
 
-    if self._disc_param_transform:
-      disc_params, disc_params_transform_state = self._disc_param_transform.apply(
-          {}, state.param_transforms.disc, disc_params,
-          update_stats=update_stats)
-    else:
-      disc_params_transform_state = ()
-
     disc_outputs, disc_state = self._transforms.disc.apply(
         disc_params, state.players.disc, disc_inputs, is_training)
 
