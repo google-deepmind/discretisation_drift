@@ -1,6 +1,9 @@
 # Discretization Drift related code
 
-Code for "On a continuous time model of gradient descent dynamics and instability in deep learning" coming soon.
+Code for
+["On a continuous time model of gradient descent dynamics and instability in deep learning"]
+(https://arxiv.org/abs/2302.01952) can be found in the
+`principal_flow_instability_single_objective/` directory.
 
 ## Discretization Drift in Two-Player Games
 
