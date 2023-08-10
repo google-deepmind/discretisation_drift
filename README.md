@@ -2,6 +2,7 @@
 
 Code for
 ["On a continuous time model of gradient descent dynamics and instability in deep learning"](https://arxiv.org/abs/2302.01952) 
+Mihaela Rosca, Yan Wu, Chongli Qin and Benoit Dherin
 can be found in the
 `principal_flow_instability_single_objective/` directory. 
 
@@ -13,8 +14,7 @@ There you can find:
 ## Discretization Drift in Two-Player Games
 
 This is the code reproducing the ICML 2021 paper
-["Discretization Drift in Two-Player Games"]
-(https://arxiv.org/abs/2105.13922)
+["Discretization Drift in Two-Player Games"](https://arxiv.org/abs/2105.13922)
 by Mihaela Rosca, Yan Wu, Benoit Dherin and
  David G.T. Barrett.
 
