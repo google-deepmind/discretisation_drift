@@ -6,7 +6,7 @@ jax==0.2.20
 jaxline==0.0.3
 numpy~=1.19.2
 optax==0.0.9
-Pillow==8.3.1
+Pillow==10.0.1
 scipy==1.7.0
 six~=1.15.0
 tensorflow-datasets==4.3.0
